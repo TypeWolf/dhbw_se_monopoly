@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3" pages="7">
   <diagram id="Pt0ASK5JjBrP9FBNVrjv" name="sd Spiel vorbereiten">
-    <mxGraphModel dx="1268" dy="957" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,10 +125,10 @@
             <mxPoint x="392" y="327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBtT_6eWsGc5dQePjARC-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ref&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;" vertex="1" parent="Wck_mMlJcXfSJ_FbUmKz-35">
+        <mxCell id="SBtT_6eWsGc5dQePjARC-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ref&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;" parent="Wck_mMlJcXfSJ_FbUmKz-35" vertex="1">
           <mxGeometry x="116" y="432" width="549" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SBtT_6eWsGc5dQePjARC-2" value="&lt;font size=&quot;1&quot;&gt;sd Spielzug ausführen&lt;/font&gt;" style="text;align=center;html=1;labelBackgroundColor=default;" vertex="1" parent="SBtT_6eWsGc5dQePjARC-1">
+        <mxCell id="SBtT_6eWsGc5dQePjARC-2" value="&lt;font size=&quot;1&quot;&gt;sd Spielzug ausführen&lt;/font&gt;" style="text;align=center;html=1;labelBackgroundColor=default;" parent="SBtT_6eWsGc5dQePjARC-1" vertex="1">
           <mxGeometry width="174" height="20" relative="1" as="geometry">
             <mxPoint x="180" y="10" as="offset" />
           </mxGeometry>
@@ -137,7 +137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RMo3UHrw7algI8oHooLd" name="sd Spielzug ausführen">
-    <mxGraphModel dx="1268" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,7 +390,7 @@
             <mxPoint x="180" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3xIL6cFafq8KQFbV5lAF-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;9b: klick &quot;Karte benutze&quot;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="HBFvw_qXuzCqx4F0AZHA-46" edge="1">
+        <mxCell id="3xIL6cFafq8KQFbV5lAF-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;9b: klick &quot;Karte benutzen&quot;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="HBFvw_qXuzCqx4F0AZHA-46" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="80" y="316" as="sourcePoint" />
             <mxPoint x="360" y="316" as="targetPoint" />
@@ -714,7 +714,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RU19bvUhtqMoJwYi7oQJ" name="sd Besitzrecht erwerben">
-    <mxGraphModel dx="1268" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -921,7 +921,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-ACS4SCnWZEM-DLp2Wd-24" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=0.998;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;" parent="u69sHNHRQk2XyY5oxCXn-1" edge="1" target="t-ACS4SCnWZEM-DLp2Wd-21">
+        <mxCell id="t-ACS4SCnWZEM-DLp2Wd-24" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=0.998;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;" parent="u69sHNHRQk2XyY5oxCXn-1" target="t-ACS4SCnWZEM-DLp2Wd-21" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="156" y="734" as="sourcePoint" />
             <mxPoint x="860" y="734" as="targetPoint" />
@@ -936,7 +936,7 @@
             <mxPoint x="255" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u69sHNHRQk2XyY5oxCXn-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;info &quot;Besitzrecht an ... versteiget!&quot;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="u69sHNHRQk2XyY5oxCXn-1" vertex="1">
+        <mxCell id="u69sHNHRQk2XyY5oxCXn-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;info &quot;Besitzrecht an ... versteigert!&quot;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="u69sHNHRQk2XyY5oxCXn-1" vertex="1">
           <mxGeometry x="314.9996551724138" y="680" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u69sHNHRQk2XyY5oxCXn-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="u69sHNHRQk2XyY5oxCXn-1" edge="1">
@@ -1014,7 +1014,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C2sUNW90vSBb49JNcR0i" name="sd Miete kassieren">
-    <mxGraphModel dx="1268" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1232,7 +1232,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ELnrYjmMCxsnSvU_eVPg" name="sd Karte ziehen">
-    <mxGraphModel dx="1268" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1338,7 +1338,7 @@
             <mxPoint x="150" y="393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vAqE_PLCZeV5V_maPNnI-32" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=0.998;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vAqE_PLCZeV5V_maPNnI-1" edge="1" target="vAqE_PLCZeV5V_maPNnI-1">
+        <mxCell id="vAqE_PLCZeV5V_maPNnI-32" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=0.998;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vAqE_PLCZeV5V_maPNnI-1" target="vAqE_PLCZeV5V_maPNnI-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1" y="403" as="sourcePoint" />
             <mxPoint x="621" y="404" as="targetPoint" />
@@ -1429,7 +1429,7 @@
         <mxCell id="S9Miqd6sJw6gkvf_PXjm-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="el9PTa3lC6NoGiFCs5qm-1" vertex="1">
           <mxGeometry x="30" y="380" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="el9PTa3lC6NoGiFCs5qm-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;1: ziehe oberste Karte&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="YBRmd31UlzEC7HsZbXLT-1" edge="1">
+        <mxCell id="el9PTa3lC6NoGiFCs5qm-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;1: ziehe obere Karte&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="YBRmd31UlzEC7HsZbXLT-1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="440" y="106" as="sourcePoint" />
             <mxPoint x="625" y="106" as="targetPoint" />
@@ -1547,7 +1547,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="22Peq2jc2Z301PHtp1YA" name="sd Kapital beschaffen">
-    <mxGraphModel dx="868" dy="122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="32" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1685,7 +1685,7 @@
             <mxPoint x="317" y="784" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0kD9B8R-vnB6PePzdQTR-23" value="&lt;font size=&quot;1&quot;&gt;2c: klick &quot;Aufgeben&quot;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="0kD9B8R-vnB6PePzdQTR-23" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;2c: klick &quot;Aufgeben&quot;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="317" y="830" as="sourcePoint" />
             <mxPoint x="499.9999999999999" y="830" as="targetPoint" />
@@ -1713,7 +1713,7 @@
             <mxPoint x="91" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0kD9B8R-vnB6PePzdQTR-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" parent="0kD9B8R-vnB6PePzdQTR-26" edge="1" target="0kD9B8R-vnB6PePzdQTR-26">
+        <mxCell id="0kD9B8R-vnB6PePzdQTR-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.006;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" parent="0kD9B8R-vnB6PePzdQTR-26" target="0kD9B8R-vnB6PePzdQTR-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="70" as="sourcePoint" />
             <mxPoint x="492.9400000000003" y="69.971" as="targetPoint" />
@@ -1740,7 +1740,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Np3eQgF4jMqRkQsQ-56m" name="sd Bankrott erklären">
-    <mxGraphModel dx="1626" dy="736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1956,7 +1956,7 @@
         <mxCell id="8UqvGuPp6JHO8xi3fKSj-39" value="&lt;span style=&quot;font-size: 9px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;info &quot;10% Zinsen für Hypothek bezahlt&quot;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="553" y="500" width="163" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8UqvGuPp6JHO8xi3fKSj-43" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=0.997;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="8UqvGuPp6JHO8xi3fKSj-11">
+        <mxCell id="8UqvGuPp6JHO8xi3fKSj-43" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=0.997;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="8UqvGuPp6JHO8xi3fKSj-11" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="45" y="550" as="sourcePoint" />
             <mxPoint x="850" y="551" as="targetPoint" />
@@ -2010,7 +2010,7 @@
             <mxPoint x="190" y="1124.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XwOpzvsE7xxCI1B2R2Lu-3" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;7: Spieler entfernen&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="XwOpzvsE7xxCI1B2R2Lu-3" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;7: entferne Spieler&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0046" relative="1" as="geometry">
             <mxPoint x="439.97" y="1136.03" as="sourcePoint" />
             <Array as="points">
@@ -2027,7 +2027,7 @@
             <mxPoint x="630" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BikvVrxflwywoKUIl43h-12" value="&lt;font size=&quot;1&quot;&gt;Geld einziehen&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="BikvVrxflwywoKUIl43h-12" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Geld einziehen&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0046" relative="1" as="geometry">
             <mxPoint x="639.97" y="920.03" as="sourcePoint" />
             <Array as="points">
