@@ -4,7 +4,7 @@ Willkommen in unserem Repository für das Software Engineering Modul. Dieses Pro
 
 ## 👥 Projektteam
 * Luis Zipse
-* Marios Zoumpolakis
+* Marios Zoumpoulakis
 * Celine Hager
 * Tina Ranft
 
