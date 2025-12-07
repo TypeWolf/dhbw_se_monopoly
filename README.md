@@ -25,18 +25,18 @@ Zunächst haben wir die offiziellen Spielregeln analysiert und für die Online-U
 
 ### 2. Anforderungsanalyse (Use Cases)
 Basierend auf dem Regelwerk haben wir die funktionalen Anforderungen definiert.
-* **Datei:** `Monopoly_ Use-Case-Beschreibungen .docx`
+* **Datei:** `Monopoly_Use-Case-Beschreibungen.docx`
 * **Hinweis zum Umfang:** Gemäß der Aufgabenstellung haben wir uns auf die Modellierung von **10 exemplarischen Use Cases** beschränkt.
   * Da das Spiel komplexer ist, enthalten die Beschreibungen an einigen Stellen Referenzen zu weiteren (notwendigen, aber hier nicht modellierten) Use Cases, um die logische Konsistenz zu wahren.
 
 ### 3. Statische Modellierung
 Zur Abbildung der Datenstruktur und der Systemarchitektur wurden ein Data Dictionary und ein Klassendiagramm erstellt.
-* **Data Dictionary:** `Data Dictionary.docx`
+* **Data Dictionary:** `Data_Dictionary.docx`
 * **Klassendiagramm:** `Monopoly_Klassendiagramm.drawio`
 
 ### 4. Dynamische Modellierung (Sequenzdiagramme)
 Abschließend haben wir die Interaktionen innerhalb des Systems visualisiert. Der Fokus lag hierbei auf der Abbildung eines vollständigen **Spielzugs**, inklusive aller Verzweigungen und der Interaktion mit der als Systemkomponente modellierten Bank.
-* **Datei:** `Sequenzdiagramme SE Monopoly.drawio`
+* **Datei:** `Sequenzdiagramme_SE_Monopoly.drawio`
 
 ---
 
